@@ -1,0 +1,20 @@
+missing module named resource - imported by posix, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named posix - imported by os, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named _posixsubprocess - imported by subprocess, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named org - imported by pickle, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named readline - imported by cmd, code, pdb, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named _winreg - imported by platform, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named 'java.lang' - imported by platform, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named termios - imported by tty, serial.serialposix, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py
+missing module named 'org.python' - imported by copy, D:\py\gas_cal\gas_cal_brd_v1.1_20190124.py, xml.sax
+missing module named fcntl - imported by serial.serialposix
+missing module named 'System.IO' - imported by serial.serialcli
+missing module named System - imported by serial.serialcli
